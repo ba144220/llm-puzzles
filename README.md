@@ -13,11 +13,13 @@
 
 ## 5. Contrastive Decoding
 
-## 6. Simple Speculative Decoding
+## 6. N-gram Speculative Decoding
 
 ## 7. LLM highlighter
 
 ## 8. Prefix Caching
 
 ## 9. Multi-point Generation
+
+## 10. Grammarly Clone
 
