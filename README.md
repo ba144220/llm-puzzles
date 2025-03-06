@@ -22,4 +22,3 @@
 ## 9. Multi-point Generation
 
 ## 10. Grammarly Clone
-
