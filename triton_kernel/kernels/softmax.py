@@ -125,7 +125,7 @@ def main():
     else:
         print("Not all close")
         
-    benchmark.run(show_plots=True, print_data=True, save_path="performance")
+    benchmark.run(show_plots=True, print_data=True, save_path="./triton_kernel/kernels/performance")
 
 if __name__ == '__main__':
     main()
